@@ -10,7 +10,7 @@
   </button>
 </template>
 
-<script lang="ts">
+<script lang="tsx">
 import { defineComponent, computed } from 'vue'
 export default defineComponent({
   name: 'Next',
